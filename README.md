@@ -186,10 +186,15 @@ tidyverse
 ggplot2
 ```
 
-Suggested repository names:
+Repository name:
 
 ```text
 harvardx-data-science-capstone-idhm
+```
+
+Alternative shorter name:
+
+```text
 idhm-random-forest-capstone
 ```
 
