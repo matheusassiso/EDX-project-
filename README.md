@@ -159,6 +159,40 @@ The full project report is available here:
 
 [EDX-IDHM.pdf](./EDX-IDHM.pdf)
 
+## GitHub Repository Metadata
+
+Suggested About description:
+
+```text
+HarvardX Data Science Capstone applying Random Forest regression in R to predict Brazil's Municipal Human Development Index using socioeconomic indicators.
+```
+
+Suggested topics:
+
+```text
+r
+data-science
+machine-learning
+random-forest
+harvardx
+edx
+capstone-project
+human-development-index
+idhm
+socioeconomic-indicators
+economics
+caret
+tidyverse
+ggplot2
+```
+
+Suggested repository names:
+
+```text
+harvardx-data-science-capstone-idhm
+idhm-random-forest-capstone
+```
+
 ## Author
 
 **Matheus Assis de Oliveira**
