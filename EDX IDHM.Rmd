@@ -1,5 +1,5 @@
 ---
-title: "MovieLens Project Report"
+title: "HarvardX Data Science Capstone: Predicting Brazil's Municipal Human Development Index with Random Forest"
 author: "Matheus Assis de Oliveira"
 date: "November 4, 2024"
 output:
@@ -42,7 +42,7 @@ library(caTools)
 ```
 
 
-Packages will be used at the study:
+Packages used in this project:
 tidyverse
 caret
 ggplot2
